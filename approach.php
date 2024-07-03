@@ -36,22 +36,28 @@
                     <div class="tabs_services">
                         <div class="tabs_nav nav nav-tabs">
                             <h5 class="tabs_nav-item active" data-bs-toggle="tab" data-bs-target="#service01" aria-controls="service01">
-                                On-Site Testing and Commissioning
+                                Client
                             </h5>
                             <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service02" aria-controls="service02">
-                                Lighting Planning and Drive Technology
+                                Strategic Planning and Execution
                             </h5>
                             <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service03" aria-controls="service03">
-                                Electrical Heating and/or Trace Heating
+                                Innovation
                             </h5>
                             <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service04" aria-controls="service04">
-                                Development of Electrical Schematics
+                                Quality Craftmanship
                             </h5>
                             <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service05" aria-controls="service05">
-                                Grounding
+                                Safety 
                             </h5>
                             <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service06" aria-controls="service06">
-                                Lightning Protection
+                                Environmental
+                            </h5>
+                            <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service07" aria-controls="service07">
+                                Improvement
+                            </h5>
+                            <h5 class="tabs_nav-item" data-bs-toggle="tab" data-bs-target="#service08" aria-controls="service08">
+                                Community
                             </h5>
                         </div>
                         <div class="tabs_content tab-content" id="service_tabs">
@@ -63,14 +69,14 @@
                                     aria-expanded="true"
                                     aria-controls="service01"
                                 >
-                                    On-Site Testing and Commissioning
+                                Client
                                 </h5>
                                 <div class="tab-pane collapse fade show" id="service01" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/client.png" srcset="img/client.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/client.png" src="img/client.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -87,7 +93,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -115,14 +121,14 @@
                                     aria-expanded="false"
                                     aria-controls="service02"
                                 >
-                                    Lighting Planning and Drive Technology
+                                Strategic Planning and Execution
                                 </h5>
                                 <div class="tab-pane collapse fade" id="service02" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/planing.png" srcset="img/planing.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/planing.png" src="img/planing.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -139,7 +145,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -167,14 +173,14 @@
                                     aria-expanded="false"
                                     aria-controls="service03"
                                 >
-                                    Electrical Heating and/or Trace Heating
+                                Innovation
                                 </h5>
                                 <div class="tab-pane collapse fade" id="service03" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/innovation.png" srcset="img/innovation.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/innovation.png" src="img/innovation.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -191,7 +197,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -219,14 +225,14 @@
                                     aria-expanded="false"
                                     aria-controls="service04"
                                 >
-                                    Development of Electrical Schematics
+                                Quality Craftmanship
                                 </h5>
                                 <div class="tab-pane collapse fade" id="service04" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/craft.png" srcset="img/craft.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/craft.png" src="img/craft.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -243,7 +249,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -271,14 +277,14 @@
                                     aria-expanded="false"
                                     aria-controls="service05"
                                 >
-                                    Grounding
+                                    Safety
                                 </h5>
                                 <div class="tab-pane collapse fade" id="service05" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/safety.png" srcset="img/safety.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/safety.png" src="img/safety.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -295,7 +301,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -323,14 +329,14 @@
                                     aria-expanded="false"
                                     aria-controls="service06"
                                 >
-                                    Lightning Protection
+                                    Environmental
                                 </h5>
                                 <div class="tab-pane collapse fade" id="service06" data-bs-parent="#service_tabs">
                                     <div class="content">
                                         <div class="media">
                                             <picture>
-                                                <source data-srcset="img/placeholder.jpg" srcset="img/placeholder.jpg" type="image/webp" />
-                                                <img class="lazy" data-src="img/placeholder.jpg" src="img/placeholder.jpg" alt="media" />
+                                                <source data-srcset="img/environment.png" srcset="img/environment.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/environment.png" src="img/environment.png" alt="media" />
                                             </picture>
                                         </div>
                                         <div class="main">
@@ -347,7 +353,7 @@
                                                         </tr>
                                                     </tbody>
                                                 </table>
-                                                <a class="main_btn btn" href="#">Get service</a>
+                                               
                                             </div>
                                             <div class="description">
                                                 <p class="text">
@@ -366,6 +372,111 @@
                                     </div>
                                 </div>
                             </div>
+                            
+                            <div class="tabs_content-item">
+                                <h5
+                                    class="trigger"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#service07"
+                                    aria-expanded="false"
+                                    aria-controls="service07"
+                                >
+                                    Improvement
+                                </h5>
+                                <div class="tab-pane collapse fade" id="service07" data-bs-parent="#service_tabs">
+                                    <div class="content">
+                                        <div class="media">
+                                            <picture>
+                                                <source data-srcset="img/improvement.png" srcset="img/improvement.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/improvement.png" src="img/improvement.png" alt="media" />
+                                            </picture>
+                                        </div>
+                                        <div class="main">
+                                            <div class="info">
+                                                <table class="info_table">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="property">Duration</td>
+                                                            <td class="value">1 day</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="property">Price</td>
+                                                            <td class="value">$12 per hour</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                               
+                                            </div>
+                                            <div class="description">
+                                                <p class="text">
+                                                    Nulla facilisi nullam vehicula ipsum a arcu cursus. Libero volutpat sed cras ornare arcu
+                                                    dui vivamus arcu felis. Feugiat sed lectus vestibulum mattis ullamcorper velit sed
+                                                    ullamcorper morbie enim facilisis gravid. A condimentum vitae sapien pellentesque
+                                                    habitant
+                                                </p>
+                                                <p class="text">
+                                                    A condimentum vitae sapien pellentesque habitant. Ac turpis egestas maecenas pharetra
+                                                    convallis posuere morbi. Sed sed risus pretium quam vulputate dignissim. Elit eget
+                                                    gravida cum sociis natoque penatibus
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tabs_content-item">
+                                <h5
+                                    class="trigger"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#service08"
+                                    aria-expanded="false"
+                                    aria-controls="service08"
+                                >
+                                    Community
+                                </h5>
+                                <div class="tab-pane collapse fade" id="service08" data-bs-parent="#service_tabs">
+                                    <div class="content">
+                                        <div class="media">
+                                            <picture>
+                                                <source data-srcset="img/comunity.png" srcset="img/comunity.png" type="image/webp" />
+                                                <img class="lazy" data-src="img/comunity.png" src="img/comunity.png" alt="media" />
+                                            </picture>
+                                        </div>
+                                        <div class="main">
+                                            <div class="info">
+                                                <table class="info_table">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="property">Duration</td>
+                                                            <td class="value">1 day</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="property">Price</td>
+                                                            <td class="value">$12 per hour</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                               
+                                            </div>
+                                            <div class="description">
+                                                <p class="text">
+                                                    Nulla facilisi nullam vehicula ipsum a arcu cursus. Libero volutpat sed cras ornare arcu
+                                                    dui vivamus arcu felis. Feugiat sed lectus vestibulum mattis ullamcorper velit sed
+                                                    ullamcorper morbie enim facilisis gravid. A condimentum vitae sapien pellentesque
+                                                    habitant
+                                                </p>
+                                                <p class="text">
+                                                    A condimentum vitae sapien pellentesque habitant. Ac turpis egestas maecenas pharetra
+                                                    convallis posuere morbi. Sed sed risus pretium quam vulputate dignissim. Elit eget
+                                                    gravida cum sociis natoque penatibus
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                           
                         </div>
                     </div>
                 </div>
